@@ -32,3 +32,10 @@ En este artículo se incluye una descripción de los modelos ARCH, GARCH y EGARC
    publisher = {scieloco},
    }
 
+## Videos interesantes:
+
+- Explicación útil y códigos en R: https://youtu.be/lVZt83XrXpY
+- Presentación: https://www.youtube.com/watch?v=NxK8UC_60Ak
+
+## Presentaciónn Beamer
+- https://www.cepal.org/sites/default/files/events/files/cc_11.2011.horario.catalan.modelosarch.esp_.pdf
